@@ -2,6 +2,33 @@
 
 A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open standard introduced by Anthropic that enables AI models to connect with external data sources and tools, enhancing their capabilities through standardized interfaces.
 
+## Table of Contents
+- [AI Services](#ai-services)
+- [Art and Culture](#art-and-culture)
+- [Browser Automation](#browser-automation)
+- [Cloud Platforms](#cloud-platforms)
+- [Communication](#communication)
+- [Data Science Tools](#data-science-tools)
+- [Databases](#databases)
+- [Developer Tools](#developer-tools)
+- [File Systems](#file-systems)
+- [Finance](#finance)
+- [Gaming](#gaming)
+- [Knowledge and Memory](#knowledge-and-memory)
+- [Location Services](#location-services)
+- [Marketing](#marketing)
+- [Monitoring](#monitoring)
+- [Note Taking](#note-taking)
+- [Research and Data](#research-and-data)
+- [Search](#search)
+- [Security](#security)
+- [Social Media](#social-media)
+- [System Automation](#system-automation)
+- [Travel and Transportation](#travel-and-transportation)
+- [Version Control](#version-control)
+- [Workflow Automation](#workflow-automation)
+- [Other Tools and Integrations](#other-tools-and-integrations)
+
 <!-- MCP_LIST_START -->
 
 ### AI Services
